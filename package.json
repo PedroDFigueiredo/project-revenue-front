@@ -30,7 +30,7 @@
     "eslint-plugin-react-hooks": "^1.6.0",
     "webpack": "^4.35.3",
     "webpack-bundle-tracker": "^0.4.2-beta",
-    "webpack-cli": "^3.3.5"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "echarts": "^4.2.1",
